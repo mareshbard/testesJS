@@ -1,1 +1,5 @@
 # TESTES EM JAVASCRIPT (PARA MFDS)
+
+-> REPOSITÓRIO DESTINADO À EXERCÍCIOS DE JAVASCRIPT
+
+![image](https://github.com/mareshbard/testesJS/assets/125154278/22a214f6-2439-4fa7-a07d-41168c9cda5e)
